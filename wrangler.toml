@@ -11,7 +11,7 @@ run_worker_first = ["/api/*", "/__scheduled"]
 [[d1_databases]]
 binding = "DB"
 database_name = "xyz-podcast-db"
-database_id = "224bbab0-b5e7-4547-9735-9038d63b8f53"
+database_id = "ac8cb49c-1792-460f-ab5b-731a0074a5bc"
 migrations_dir = "migrations"
 
 [triggers]
